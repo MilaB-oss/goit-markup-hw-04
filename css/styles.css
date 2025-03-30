@@ -496,3 +496,13 @@ li:hover .overlay {
     color: #F4F4FD;
     max-width: 264px;
 }
+
+.footer-socials {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+}
+.footer-socials-title {
+    
+}
