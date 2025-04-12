@@ -432,7 +432,7 @@ body {
     }
     
     .portfolio-overlay-text {
-        position: absolute;
+        position: relative;
         top: 0;
         font-size: 16px;
         line-height: 1.5;
@@ -526,7 +526,7 @@ body {
         margin-bottom: 16px;
 }
 
-.social-list {
+.social-list-footer {
         display: flex;
         gap: 16px;
         list-style: none;
@@ -552,7 +552,7 @@ body {
 
 .social-link:hover,
 .social-link:focus {
-        background-color: #31d0aa;
+        background-color: #31d0aa; 
 }
 
 .social-icon {
