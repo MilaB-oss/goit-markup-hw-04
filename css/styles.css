@@ -432,7 +432,7 @@ body {
     }
     
     .portfolio-overlay-text {
-        position: relative;
+        position: absolute;
         top: 0;
         font-size: 16px;
         line-height: 1.5;
