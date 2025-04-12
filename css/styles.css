@@ -542,7 +542,7 @@ body {
     height: 40px;
     }
 
-.social-link {
+.social-link agit{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -553,8 +553,8 @@ body {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.social-link:hover,
-.social-link:focus {
+.social-link a:hover,
+.social-link a:focus {
     background-color: #31d0aa;
 }
 
