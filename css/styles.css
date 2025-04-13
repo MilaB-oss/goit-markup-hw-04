@@ -4,28 +4,28 @@ body {
     background-color: #ffffff;
     }
     
-    img {
-    display: block;
-    }
+img {
+display: block;
+}
     
-    h1,h3 {
-    color: #2E2F42;
-    }
+h1,h3 {
+color: #2E2F42;
+}
     
-    h1, h2, h3, h4, h5, h6, p, ul {
-    margin: 0;
-    padding:0;
-    list-style: none;
-    }
+h1, h2, h3, h4, h5, h6, p, ul {
+margin: 0;
+padding:0;
+list-style: none;
+}
     
-    .page-header {
-    border-bottom: 1px solid #e7e9fc;
-    box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 2px 1px 0 rgba(46, 47, 66, 0.08);
-    background: #fff;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    }
+.page-header {
+border-bottom: 1px solid #e7e9fc;
+box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 2px 1px 0 rgba(46, 47, 66, 0.08);
+background: #fff;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+}
     
     .header-container {
     display: flex;
