@@ -549,8 +549,8 @@ letter-spacing: 0.03em;
 }
 
 .social-item:hover .social-link-footer,
-.social-item:focus .social-link-footer {
-    background-color: #31d0aa;
+.social-item:focus-within .social-link-footer {
+  background-color: #31d0aa;
 }
 
 .social-icon {
